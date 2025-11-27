@@ -1,0 +1,4 @@
+config:
+  pulumi-infra:environment: dev
+  pulumi-infra:location: westeurope
+  pulumi-infra:baseName: xra-dev

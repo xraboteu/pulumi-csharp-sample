@@ -1,0 +1,4 @@
+config:
+  pulumi-infra:environment: staging
+  pulumi-infra:location: westeurope
+  pulumi-infra:baseName: xra-stg

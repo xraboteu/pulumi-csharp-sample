@@ -1,0 +1,4 @@
+config:
+  pulumi-infra:environment: prod
+  pulumi-infra:location: westeurope
+  pulumi-infra:baseName: xra-prod
